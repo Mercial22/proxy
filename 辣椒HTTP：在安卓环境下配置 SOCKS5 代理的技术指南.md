@@ -1,4 +1,4 @@
-# 辣椒HTTP：在安卓环境下配置 SOCKS5 代理的技术指南-已配置
+# <a href="https://lajiaohttp.com/?kwd=zz-gitub" target="_blank">辣椒HTTP</a>：在安卓环境下配置 SOCKS5 代理的技术指南
 
 面向开发者的 Android SOCKS5 代理配置指南，介绍系统级与第三方工具设置方法、验证流程及最佳实践，适用于多协议数据传输、分布式测试与数据采集场景。
 
@@ -85,6 +85,6 @@ curl -x socks5://username:password@proxy_host:port
 
 *   Android 系统默认代理功能仅限 HTTP/HTTPS，需借助第三方工具实现 SOCKS5。
     
-*   辣椒HTTP 提供的 SOCKS5 节点覆盖多区域，支持大规模并发请求，适合分布式测试、数据采集与跨环境应用调试。
+*   <a href="https://lajiaohttp.com/?kwd=zz-gitub" target="_blank">辣椒HTTP</a> 提供的 SOCKS5 节点覆盖多区域，支持大规模并发请求，适合分布式测试、数据采集与跨环境应用调试。
     
 *   推荐开发者在测试与生产环境中，统一通过代理管理工具或脚本进行节点接入与验证，以确保请求的可控性与安全性。
