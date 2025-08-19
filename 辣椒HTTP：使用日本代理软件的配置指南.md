@@ -1,4 +1,4 @@
-#辣椒HTTP：使用日本代理软件的配置指南-已官网
+# <a href="https://lajiaohttp.com/?kwd=zz-gitub" target="_blank">辣椒HTTP</a>：使用日本代理软件的配置指南
 
 # 使用日本代理软件的配置与实用场景指南
 
